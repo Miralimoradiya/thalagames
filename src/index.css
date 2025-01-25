@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.drawer-toggle {
+    position: fixed;
+    height: 0;
+    width: 0;
+    appearance: none;
+    opacity: 0;
+}
