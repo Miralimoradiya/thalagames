@@ -2,6 +2,13 @@
 
 ThalaGames is a collection of fun and interactive games built using **React.js**, **Vite**, and **Tailwind CSS**. These games are designed to be played online, offering an enjoyable experience for players of all ages. The website is fully **responsive**, ensuring that you can play on any device, from desktop to mobile.
 
+## Live Demo
+
+The website is live on Netlify. Check it out here:
+
+[Live Demo](https://thalagame-miralimoradiya.netlify.app/)
+
+
 ## Features
 
 - A variety of games to choose from, all accessible online.
